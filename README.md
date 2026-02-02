@@ -7,6 +7,11 @@ A simple, text-based version of the classic Hangman game written in Python. I bu
 * **Input handling:** It checks if inputs are valid letters and prevents penalty for repeated guesses.
 * **Visuals:** Includes ASCII art for the hangman stages.
 
+## Game Logic (Flowchart)
+Here is the flow of the game logic:
+
+![Flowchart](./flowchart.png)
+
 ## How to run
 
 1. Clone the repository:
