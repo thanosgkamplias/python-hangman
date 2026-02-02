@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code temp files
+tempCodeRunnerFile.py
+.vscode/
